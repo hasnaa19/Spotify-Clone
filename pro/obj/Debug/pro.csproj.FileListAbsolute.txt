@@ -1,0 +1,159 @@
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.Form1.resources
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\pro\pro\bin\Debug\pro.exe.config
+C:\Users\Microsoft\source\repos\pro\pro\bin\Debug\pro.exe
+C:\Users\Microsoft\source\repos\pro\pro\bin\Debug\pro.pdb
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.exe
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.pdb
+C:\Users\Microsoft\source\repos\pro\pro\obj\Debug\pro.Form2.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\pro.exe.config
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\pro.exe
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\Oracle.DataAccess.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csprojAssemblyReference.cache
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.Properties.Resources.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.csproj.CopyComplete
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.exe
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.RegisterForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.loginForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.mainForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.DisconnectedMode.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.Shared.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\AxShockwaveFlashObjects.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\ShockwaveFlashObjects.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\bin\Debug\stdole.dll
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.BrowseForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.editPack_form.resources
+D:\3rd year\Second term\SW eng\project\phase 2\pro (1)\pro\pro\obj\Debug\pro.Form1.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.exe.config
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.exe
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.pdb
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\Oracle.DataAccess.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\stdole.dll
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.AssemblyReference.cache
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.DisconnectedMode.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.BrowseForm.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.editPack_form.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.Form1.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.RegisterForm.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.loginForm.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.mainForm.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.Properties.Resources.resources
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.CopyComplete
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.exe
+C:\Users\bradl\Desktop\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.exe.config
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.exe
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.Shared.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\Oracle.DataAccess.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\AxShockwaveFlashObjects.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\ShockwaveFlashObjects.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\stdole.dll
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csprojAssemblyReference.cache
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.DisconnectedMode.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.BrowseForm.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.editPack_form.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.Form1.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.RegisterForm.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.loginForm.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.mainForm.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.Properties.Resources.resources
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.CopyComplete
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.exe
+D:\3rd year\Second term\SW eng\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.exe.config
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.exe
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\pro.pdb
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.Shared.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\Oracle.DataAccess.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\AxShockwaveFlashObjects.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\ShockwaveFlashObjects.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\bin\Debug\stdole.dll
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csprojAssemblyReference.cache
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.DisconnectedMode.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.BrowseForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.editPack_form.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.Form1.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.RegisterForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.loginForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.mainForm.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.Properties.Resources.resources
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.GenerateResource.cache
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.CoreCompileInputs.cache
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.csproj.CopyComplete
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.exe
+D:\3rd year\Second term\SW eng\project\phase 2\[BIO]_[12]_[SPOTIFY]\pro\pro\obj\Debug\pro.pdb
